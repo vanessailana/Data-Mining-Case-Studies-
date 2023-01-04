@@ -1,8 +1,8 @@
 # Case Studies Repo
 
 The purpose of this repository is that it consists of different case 
-studies presented in 
-Comp 541 (Data Mining) at Cal State Northridge. 
+studies presented in Comp 541 (Data Mining) at Cal State Northridge. This repo gives students 
+the idea of different applications of where Data Mining can be applied. 
 
 
 ### Case Study #1 : U.S. Educational Finances
