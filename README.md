@@ -16,10 +16,21 @@ revenue and expenditure for each state and year,
 as well as details on funding sources
  and expenditures by category.
  
- 
+ #### Dataset 
+ https://www.kaggle.com/datasets/noriuk/us-educational-finances
 
 ### Case Study #2 : COVID-19 Open Research Dataset 
 In response to the COVID-19 pandemic, the White House and a coalition of leading research groups have prepared the COVID-19 9 Open Research Dataset 
 (CORD-19). CORD-19 is a resource of over 1,000,000 scholarly articles, including over 400,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses. Given the large number of literature and the rapid spread of COVID-19, it is difficult for health professionals to keep up with new information on the virus. Can clustering similar research articles together simplify the search for related publications? Credits to https://github.com/MaksimEkin/COVID19-Literature-Clustering
 
+#### Dataset 
+https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challengehttps://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge
 
+### Case Study 3: Asteroid Diameter Prediction
+Can AI algorithms in case of astronomy? Yes, if there is enough data. Utilizing a dataset 
+maintained by Jet Propulsion Laboratory of California Institute of Technology which is an organization 
+under NASA, one can solve the problem to predict asteroid. Within this notebook we try and build a basic
+random forest regression model to predict the diameter of an asteroid. 
+
+#### Dataset 
+https://www.kaggle.com/datasets/basu369victor/prediction-of-asteroid-diameter
