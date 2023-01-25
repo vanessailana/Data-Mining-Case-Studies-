@@ -34,3 +34,9 @@ random forest regression model to predict the diameter of an asteroid.
 
 #### Dataset 
 https://www.kaggle.com/datasets/basu369victor/prediction-of-asteroid-diameter
+
+
+
+
+### Case Study 3: Breast Cancer Prediction
+A demonstration on how we can use Logistic Regression to predict whether a breast tumor is cancerous or not. 
